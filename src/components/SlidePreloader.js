@@ -10,5 +10,4 @@ const SlidePreloader = () => {
     </div>
   );
 };
-
 export default SlidePreloader;
