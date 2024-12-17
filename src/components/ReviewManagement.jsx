@@ -12,7 +12,7 @@ export default function ReviewManagement() {
   {
     const {name, value} = e.target;
     setReply({...getReply, [name]: value})
-  }
+  } 
   function ReplyReviews(e)
   {
     e.preventDefault()
